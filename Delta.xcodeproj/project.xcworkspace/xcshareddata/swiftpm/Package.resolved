@@ -1,0 +1,14 @@
+{
+  "originHash" : "152cdd887866d4dfebcd63b99bd22c82f35b729bf0bdfcf4ca1b2adb6f1048dc",
+  "pins" : [
+    {
+      "identity" : "altkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rileytestut/AltKit.git",
+      "state" : {
+        "revision" : "2fd376df1c79ec06a5c80cc8933da027f65b3148"
+      }
+    }
+  ],
+  "version" : 3
+}

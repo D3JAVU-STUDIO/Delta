@@ -1954,7 +1954,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 90;
-				DEVELOPMENT_TEAM = 2LLNTMFL77;
+				DEVELOPMENT_TEAM = ZHW93GJ262;
 				INFOPLIST_FILE = "Delta/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -1966,7 +1966,7 @@
 					"$(inherited)",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) \"-D\" \"COCOAPODS\" -DDEBUG";
-				PRODUCT_BUNDLE_IDENTIFIER = com.coolcode.dev;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appgloam.dev;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRIP_INSTALLED_PRODUCT = YES;
@@ -1992,7 +1992,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 90;
-				DEVELOPMENT_TEAM = 2LLNTMFL77;
+				DEVELOPMENT_TEAM = ZHW93GJ262;
 				INFOPLIST_FILE = "Delta/Supporting Files/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -2004,7 +2004,7 @@
 					"$(inherited)",
 				);
 				OTHER_SWIFT_FLAGS = "$(inherited) \"-D\" \"COCOAPODS\" -DIMPACTOR";
-				PRODUCT_BUNDLE_IDENTIFIER = com.coolcode.dev;
+				PRODUCT_BUNDLE_IDENTIFIER = com.appgloam.dev;
 				PROVISIONING_PROFILE = "";
 				PROVISIONING_PROFILE_SPECIFIER = "";
 				STRIP_INSTALLED_PRODUCT = YES;
